@@ -1,4 +1,4 @@
-# CS6370-Natrual-Language-Processing
+# CS6370-Natural-Language-Processing
 Implementation of an Information Retrieval System on the Cranfield Dataset to understand the various concepts of Natural Language Processing.
 
 Assignment Part 1 consists of segmentation, toeknization, and stemming.
