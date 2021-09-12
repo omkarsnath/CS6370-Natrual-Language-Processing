@@ -7,4 +7,4 @@ Assignment Part 2 consists of creating the TF-IDF index, retrieving documents an
 
 Project consists of a comparative analysis of four approaches – Vector Space Model, Latent Semantic Analysis, Best Match 25 and Best Weighted Probabilistic.
 
-Part of course CS6370 Natural Language Processing, conducted at IIT Madras - Jan 2021 to May 2021
+Part of course CS6370 Natural Language Processing, conducted at IIT Madras - Jan 2021 to May 2021.
